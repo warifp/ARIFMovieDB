@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   ## UTS PEMGROGRAMAN MOBILE ##
+     NAMA : WAHYU ARIF PURNOMO
+     NIM  : 16.11.0746
+-->
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:hint="@string/search_hint"
+    android:label="@string/app_name"
+    android:searchSuggestSelection=" ?" />
+
+

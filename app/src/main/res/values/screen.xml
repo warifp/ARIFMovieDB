@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   ## UTS PEMGROGRAMAN MOBILE ##
+     NAMA : WAHYU ARIF PURNOMO
+     NIM  : 16.11.0746
+-->
+<resources>
+    <string name="imageSize" translatable="false">w154</string>
+    <string name="backDropImgSize" translatable="false">w780</string>
+    <string name="galleryImgSize" translatable="false">w342</string>
+    <string name="galleryPreviewImgSize" translatable="false">w500</string>
+</resources>
